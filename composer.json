@@ -1,0 +1,11 @@
+{
+    "name": "anna.kruglyanskaya/sample-web-application",
+    "description": "This is a sample inventory application",
+    "authors": [
+        {
+            "name": "Anna Kruglyanskaya",
+            "email": "anna.kruglyanskaya@gmail.com"
+        }
+    ],
+    "require": {}
+}
